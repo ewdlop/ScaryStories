@@ -44,7 +44,7 @@
     ]
   },
   "devDependencies": {
-    "axios": "^1.6.2",
+    "axios": "^1.7.4",
     "mobx": "^6.11.0"
   }
 }
